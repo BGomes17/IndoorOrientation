@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">IndoorOrientation</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- MENU -->
+    <string name="aboutus">About Us</string>
+    <string name="intro">See Intro</string>
+
+
+    <!-- INTRO -->
+    <string name="introMain">This intro will guide you through the features of this app</string>
+
+    <!-- SPINNER -->
+    <string name="spinner_prompt">Select Destination</string>
+
+
+</resources>
